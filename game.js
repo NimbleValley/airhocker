@@ -20,7 +20,7 @@ var ballY = 100;
 var ballVelX = 0;
 var ballVelY = 0;
 
-const maxSpeed = width / 800;
+const maxSpeed = width / 1200;
 const maxBallSpeed = width / 500;
 
 var left1, right1, up1, down1;
